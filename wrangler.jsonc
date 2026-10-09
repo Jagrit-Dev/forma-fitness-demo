@@ -1,0 +1,6 @@
+// Cloudflare Workers static-assets deploy. `npm run build` then `npx wrangler deploy`.
+{
+  "name": "forma-fitness-demo",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist" }
+}
