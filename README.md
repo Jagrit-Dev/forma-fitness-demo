@@ -1,5 +1,7 @@
 # 02 — FORMA Human Performance Lab
 
+**Live:** https://forma-fitness-demo.jagritmondal-csbs.workers.dev · auto-deploys from `main` via Cloudflare Workers Builds
+
 A fictional premium training lab where the website *is* the instrument. Instead of a scroll-driven
 video, every tool feeds a live WebGL scene: move a slider and a 42,000-point particle athlete changes
 build, stature and energy in real time.
